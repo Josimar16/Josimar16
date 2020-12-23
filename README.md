@@ -8,13 +8,13 @@ Meu nome é Josimar Junior, desenvolvedor Full Stack, estudando e aprendendo con
 - 🚀 Cursando o bootcamp da Rocketseat, o GoStack 13.
 - 🖥 Head do sistema de colaboradores interno e externo da Brisanet Telecomunicações, o RHConecta.
 
-<div style="background: url('https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png'); background-position: right bottom; height: 600px; background-repeat: no-repeat;" >
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start;">
+<div style="background: url('https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png'); background-position: right bottom; height: 550px; background-repeat: no-repeat;" >
+  <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center;">
     <div>
 
   [![Josimar's github stats](https://github-readme-stats.vercel.app/api?username=Josimar16&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
     </div>
-    <div>
+    <div> 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josimar16&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
     </div>
