@@ -76,15 +76,21 @@
 </a>
 ----
 
+----
+
  [![Josimar's github stats](https://github-readme-stats.vercel.app/api?username=Josimar16&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josimar16&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+---- 
+### Redes sociais 🔌
 <p align="center">
   <a href="mailto:josimarjr479@gmail.com?subject=Questions" alt="Gmail">
     <img src="https://img.shields.io/badge/josimarjr479@gmail.com-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark"/>
   </a>
 </p>
+
+
   
   <!-- <div >
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center" alt="Computador iuriCode">
