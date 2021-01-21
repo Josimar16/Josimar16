@@ -74,7 +74,6 @@
 <a style="text-decoration: none;" href="https://www.docker.com/">
   <img height="32" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="Docker"/>
 </a>
-----
 
 ----
 
