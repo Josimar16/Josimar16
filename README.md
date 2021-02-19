@@ -1,3 +1,8 @@
+<div align="right">
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Josimar16)](https://github.com/Josimar16)
+
+</div>
 ### Olá Dev 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="justify">
@@ -83,11 +88,15 @@
 
 ---- 
 ### Redes sociais 🔌
-<p align="center">
-  <a href="mailto:josimarjr479@gmail.com?subject=Questions" alt="Gmail">
-    <img src="https://img.shields.io/badge/josimarjr479@gmail.com-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark"/>
-  </a>
-</p>
+<br>
+
+<sub align="center">
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark">](https://www.linkedin.com/in/josimar-junior-4544a3204/)  
+
+[<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark&link=mailto:tharlys2015c@gmail.com">](mailto:josimarjr479@gmail.com)  
+
+</sub>
 
 
   
