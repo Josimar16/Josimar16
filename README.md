@@ -21,6 +21,11 @@
 </p>
 <p align="justify">
   <strong>
+    - 💻 Técnico em informática pela E.E.E.P Maria Célia Pinheiro Falcão. 
+  </strong>
+</p>
+<p align="justify">
+  <strong>
     - 🖥 Cursando Sistemas para a Internet pela universidade UNP.
   </strong>
 </p>
