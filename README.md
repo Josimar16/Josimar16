@@ -36,6 +36,11 @@
 </p>
 <p align="justify">
   <strong>
+    - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, Rocketseat.
+  </strong>
+</p>
+<p align="justify">
+  <strong>
     - 🖥 Head do sistema de colaboradores interno e externo da Brisanet Telecomunicações, o RHConecta.
   </strong>
 </p>
