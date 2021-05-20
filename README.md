@@ -36,6 +36,11 @@
 </p>
 <p align="justify">
   <strong>
+    - 🚀 Certificado do Ignite(NodeJs), Rocketseat.
+  </strong>
+</p>
+<p align="justify">
+  <strong>
     - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, Rocketseat.
   </strong>
 </p>
