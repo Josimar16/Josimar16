@@ -54,35 +54,35 @@
 
 <p align="justify">
   
-### Development 👨‍💻
+<strong> Development 👨‍💻 </strong>
 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-2D63DD.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-### Server 👨‍🏭
+<strong> Server 👨‍🏭 </strong>
   
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/express-green.svg?&style=for-the-badge&logo=express&logoColor=white"/>
 <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
   
-### Web 💻
+<strong> Web 💻 </strong>
   
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NextJS" src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-2F495E.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
   
-### Database 👨‍⚖️  
+<strong> Database 👨‍⚖️ </strong>
   
 <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="SQlite" src="https://img.shields.io/badge/sqlite%20-blue.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/firebase-1973E8.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
   
-### Styles 💄  
+<strong> Styles 💄 </strong>
   
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
@@ -92,7 +92,7 @@
 
 ----
 
-### Stacks 📊
+### Pipeline 📊
 
  [![Josimar's github stats](https://github-readme-stats.vercel.app/api?username=Josimar16&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
