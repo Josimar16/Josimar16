@@ -54,19 +54,21 @@
 
 <p align="justify">
   
-<strong> Development 👨‍💻 </strong>
+<div>
+  <strong> Development 👨‍💻 </strong>
 
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-2D63DD.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-2D63DD.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-<strong> Server 👨‍🏭 </strong>
-  
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/express-green.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-<img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
+  <strong> Server 👨‍🏭 </strong>
+
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/express-green.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
+</div>
   
 <strong> Web 💻 </strong>
   
