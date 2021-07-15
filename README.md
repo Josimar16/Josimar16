@@ -7,16 +7,16 @@
 ### Olá Dev 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="justify">
-  Meu nome é Josimar Junior, desenvolvedor Full Stack, estudando e aprendendo constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando ReactJS e VueJS com o framework NuxtJS, no mobile usando Flutter e React Native, e também conhecimentos aprofundados em banco de dados relacionais como PostgresSQL e conhecimentos aprofundados sobre Docker e Docker Compose!
+  Meu nome é Josimar Junior, sou desenvolvedor Full Stack, estudando constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJs e nas tecnologias frontend usando ReactJS com o framework NextJs, no mobile usando React Native, e também conhecimentos em funções serverless da AWS e Firebase, um apaixonado pela linguagem JavaScript. 
 </p>
 <p align="justify">
   <strong>
-    - 🔭 Atualmente trabalhando como desenvolvedor FullStack na empresa Brisanet Telecomunicações.
+    - 🔭 Atualmente trabalhando como desenvolvedor FullStack e líder de projetos na empresa Brisanet Telecomunicações S.A.
   </strong>
 </p>
 <p align="justify">
   <strong>
-    - 🌱 Sempre estudando sobre Typescript, Javascript, ReactJS, React Native, NodeJS, NestJS, VueJS, Docker, Docker Compose, Flutter, temas de UI/UX com AdobeXD.
+    - 🌱 Sempre estudando sobre ReactJS/NextJs, React Native e NodeJS/NestJS.
   </strong>
 </p>
 <p align="justify">
@@ -46,7 +46,12 @@
 </p>
 <p align="justify">
   <strong>
-    - 🖥 Head do sistema de colaboradores interno e externo da Brisanet Telecomunicações, o RHConecta.
+    - 🖥 Head do sistema de chamados(CRM) da Brisanet Telecomunicações, o WorkFlow.
+  </strong>
+</p>
+<p align="justify">
+  <strong>
+    - 🖥 Head do sistema de gestão de projetos da Brisanet Telecomunicações, o Icarus.
   </strong>
 </p>
 
@@ -54,47 +59,32 @@
 
 ### Stacks 🖥
 
-<a style="text-decoration: none;" href="https://vuejs.org/">
-  <img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/367_Vuejs_logo-512.png" alt="Vue"/>
-</a>
-<a style="text-decoration: none;" href="https://nuxtjs.org/">
-  <img height="32" src="https://nuxtjs.org/favicon.ico" alt="NuxtJS"/>
-</a>
-<a style="text-decoration: none;" href="https://pt-br.reactjs.org/">
-  <img height="32" src="https://pt-br.reactjs.org/favicon.ico" alt="React"/>
-</a>
-<a style="text-decoration: none;" href="https://reactnative.dev/">
-  <img height="32" src="https://pt-br.reactjs.org/favicon.ico" alt="React Native"/>
-</a>
-<a style="text-decoration: none;" href="https://www.w3schools.com/html/">
-  <img height="32" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png" alt="HTML"/>
-</a>
-<a style="text-decoration: none;" href="https://www.w3schools.com/css/">
-  <img height="32" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS"/>
-</a>
-<a style="text-decoration: none;" href="https://www.postgresql.org/">
-  <img height="32" src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL"/>
-</a>
-<a style="text-decoration: none;" href="https://nodejs.org/en/">
-  <img height="32" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" alt="Node"/>
-</a>
-<a style="text-decoration: none;" href="https://nestjs.com/">
-  <img height="32" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="NestJS"/>
-</a>
-<a style="text-decoration: none;" href="https://www.typescriptlang.org/">
-  <img height="32" src="https://cdn2.iconfinder.com/data/icons/programming-languages-8/64/207_programming-program-language-code-typescript-512.png" alt="TypeScript"/>
-<a style="text-decoration: none;" href="https://www.javascript.com/">
-  <img height="32" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" alt="JavaScript"/>
-</a>
-<a style="text-decoration: none;" href="https://flutter.dev/">
-  <img height="32" src="https://flutter.dev/images/favicon.png" alt="Flutter"/>
-</a>
-<a style="text-decoration: none;" href="https://dart.dev">
-  <img height="32" src="https://dart.dev/assets/shared/dart/icon/64.png" alt="Dart"/>
-</a>
-<a style="text-decoration: none;" href="https://www.docker.com/">
-  <img height="32" src="https://www.docker.com/sites/default/files/d8/Docker-R-Logo-08-2018-Monochomatic-RGB_Moby-x1.png" alt="Docker"/>
-</a>
+<p align="justify">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-2D63DD.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<br/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/express-green.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+<img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
+<br/>
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="NextJS" src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+<img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-2F495E.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+<br/>
+<img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="SQlite" src="https://img.shields.io/badge/sqlite%20-blue.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-1973E8.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
+<br/>
+<img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+<img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
+<img alt="Chakra UI" src="https://img.shields.io/badge/chakra%20ui-5AC9C8.svg?&style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7953B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
 ----
 
@@ -104,8 +94,11 @@
 
 ---- 
 ### Redes sociais 🔌
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark">](https://www.linkedin.com/in/josimar-junior-4544a3204/)
-[<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark&link=mailto:tharlys2015c@gmail.com">](mailto:josimarjr479@gmail.com)
+<sub>Manda um "Oi" <br>
+[<img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost&theme=dark" />](https://app.rocketseat.com.br/me/josimarjunior) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/josimar-junior-4544a3204/) 
+[<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark&link=mailto:josimarjr479@gmail.com">](mailto:josimarjr479@gmail.com)   
+</sub>
 
   
   <!-- <div >
