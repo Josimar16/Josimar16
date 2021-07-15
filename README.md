@@ -58,6 +58,7 @@
   <strong> Development 👨‍💻 </strong>
   
   <br />
+  <br />
 
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -65,9 +66,11 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3-2D63DD.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 
   <br />
+  <br />
   
   <strong> Server 👨‍🏭 </strong>
 
+  <br />
   <br />
   
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -76,12 +79,14 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
   
   <br />
+  <br />
 </div>
 
 <div>
   
   <strong> Web 💻 </strong>
 
+  <br />
   <br />
 
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -90,9 +95,11 @@
   <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-2F495E.svg?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
 
   <br />
+  <br />
 
   <strong> Database 👨‍⚖️ </strong>
 
+  <br />
   <br />
 
   <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -101,12 +108,14 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-1973E8.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
 
   <br />
+  <br />
 </div>
   
 <div>
 
   <strong> Styles 💄 </strong>
 
+  <br />
   <br />
 
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
