@@ -118,9 +118,13 @@
 
 ### Pipeline 📊
 
- [![Josimar's github stats](https://github-readme-stats.vercel.app/api?username=Josimar16&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  
+   [![Josimar's github stats](https://github-readme-stats.vercel.app/api?username=Josimar16&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josimar16&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+</p>
 
   
   <!-- <div >
