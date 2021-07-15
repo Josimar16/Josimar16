@@ -69,8 +69,6 @@
   <br />
   
   <strong> Server 👨‍🏭 </strong>
-
-  <br />
   
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -85,8 +83,6 @@
   
   <strong> Web 💻 </strong>
 
-  <br />
-
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="NextJS" src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
@@ -96,8 +92,6 @@
   <br />
 
   <strong> Database 👨‍⚖️ </strong>
-
-  <br />
 
   <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -111,8 +105,6 @@
 <div>
 
   <strong> Styles 💄 </strong>
-
-  <br />
 
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
