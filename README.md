@@ -1,6 +1,6 @@
 <div align="right">
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Josimar16)](https://github.com/Josimar16)
+[![Visitors](https://komarev.com/ghpvc/?username=josimar16&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Josimar16)
 
 </div>
 
@@ -20,40 +20,37 @@
   </strong>
 </p>
 <p align="justify">
-  <strong>
-    - 💻 Técnico em informática pela E.E.E.P Maria Célia Pinheiro Falcão. 
-  </strong>
+   - 🌱 Sempre aplicando e estudando sobre as boas práticas de clean architecture e desenvolvimento dirigido a teste(TDD).
 </p>
 <p align="justify">
-  <strong>
-    - 🖥 Cursando Sistemas para a Internet pela universidade UNP.
-  </strong>
+   - 💻 Técnico em informática pela E.E.E.P Maria Célia Pinheiro Falcão. 
 </p>
 <p align="justify">
-  <strong>
-    - 🚀 Certificado na GoStack14, Rocketseat.
-  </strong>
+   - 🖥 Cursando Sistemas para a Internet pela universidade UNP.
 </p>
 <p align="justify">
-  <strong>
-    - 🚀 Certificado do Ignite(NodeJs), Rocketseat.
-  </strong>
+   - 🚀 Certificado na GoStack14, Rocketseat.
 </p>
 <p align="justify">
-  <strong>
-    - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, Rocketseat.
-  </strong>
+   - 🚀 Certificado do Ignite(NodeJs), Rocketseat.
 </p>
 <p align="justify">
-  <strong>
-    - 🖥 Head do sistema de chamados(CRM) da Brisanet Telecomunicações, o WorkFlow.
-  </strong>
+   - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, Rocketseat.
 </p>
 <p align="justify">
-  <strong>
-    - 🖥 Head do sistema de gestão de projetos da Brisanet Telecomunicações, o Icarus.
-  </strong>
+   - 🖥 Head do sistema de chamados(CRM) da Brisanet Telecomunicações, o WorkFlow.
 </p>
+<p align="justify">
+   - 🖥 Head do sistema de gestão de projetos da Brisanet Telecomunicações, o Icarus.
+</p>
+
+---- 
+### Redes sociais 🔌
+<sub>Manda um "Oi" <br>
+[<img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost&theme=dark" />](https://app.rocketseat.com.br/me/josimarjunior) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/josimar-junior-4544a3204/) 
+[<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark&link=mailto:josimarjr479@gmail.com">](mailto:josimarjr479@gmail.com)   
+</sub>
 
 ----
 
@@ -91,14 +88,6 @@
  [![Josimar's github stats](https://github-readme-stats.vercel.app/api?username=Josimar16&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josimar16&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----- 
-### Redes sociais 🔌
-<sub>Manda um "Oi" <br>
-[<img src="https://img.shields.io/badge/Rocketseat-%237159c1?style=for-the-badge&logo=ghost&theme=dark" />](https://app.rocketseat.com.br/me/josimarjunior) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&theme=dark" />](https://www.linkedin.com/in/josimar-junior-4544a3204/) 
-[<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white&theme=dark&link=mailto:josimarjr479@gmail.com">](mailto:josimarjr479@gmail.com)   
-</sub>
 
   
   <!-- <div >
