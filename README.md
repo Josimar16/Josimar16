@@ -10,7 +10,7 @@
   Meu nome é Josimar Junior, sou desenvolvedor Full Stack, estudando constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJs e nas tecnologias frontend usando ReactJS com o framework NextJs, no mobile usando React Native, e também conhecimentos em funções serverless da AWS e Firebase, um apaixonado pela linguagem JavaScript. 
 </p>
 <p align="justify">
-   - 🔭 Atualmente trabalhando como desenvolvedor FullStack e líder de projetos na empresa Brisanet Telecomunicações S.A.
+   - 🔭 Atualmente trabalhando como desenvolvedor FullStack e líder de projetos na empresa @Brisanet Telecomunicações S.A.
 </p>
 <p align="justify">
    - 🌱 Sempre estudando sobre ReactJS/NextJs, React Native e NodeJS/NestJS.
@@ -25,22 +25,22 @@
    - 🖥 Cursando Sistemas para a Internet pela universidade UNP.
 </p>
 <p align="justify">
-   - 🚀 Certificado na GoStack14, Rocketseat.
+   - 🚀 Certificado na GoStack14, <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>.
 </p>
 <p align="justify">
-   - 🚀 Certificado do Ignite(ReactJs), Rocketseat.
+   - 🚀 Certificado do Ignite(ReactJs), <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>.
 </p>
 <p align="justify">
-   - 🚀 Certificado do Ignite(NodeJs), Rocketseat.
+   - 🚀 Certificado do Ignite(NodeJs), <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>.
 </p>
 <p align="justify">
-   - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, Rocketseat.
+   - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>.
 </p>
 <p align="justify">
-   - 🖥 Head do sistema de chamados(CRM) da Brisanet Telecomunicações, o WorkFlow.
+   - 🖥 Head do sistema de chamados(CRM) da @Brisanet Telecomunicações, o WorkFlow.
 </p>
 <p align="justify">
-   - 🖥 Head do sistema de gestão de projetos da Brisanet Telecomunicações, o Icarus.
+   - 🖥 Head do sistema de gestão de projetos da @Brisanet Telecomunicações, o Icarus.
 </p>
 
 ---- 
