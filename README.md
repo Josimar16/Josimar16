@@ -28,6 +28,9 @@
    - 🚀 Certificado na GoStack14, Rocketseat.
 </p>
 <p align="justify">
+   - 🚀 Certificado do Ignite(ReactJs), Rocketseat.
+</p>
+<p align="justify">
    - 🚀 Certificado do Ignite(NodeJs), Rocketseat.
 </p>
 <p align="justify">
