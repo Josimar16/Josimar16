@@ -96,7 +96,7 @@
   <br />
   <br />
 
-  <strong> Database 👨‍⚖️ </strong>
+  <strong> Database ⚡ </strong>
 
   <img alt="Postgresql" src="https://img.shields.io/badge/postgresql%20-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Mongodb" src="https://img.shields.io/badge/mongodb%20-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
