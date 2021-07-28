@@ -106,12 +106,20 @@
 </div>
   
 <div>
+  
+  <strong> Mobile 📱 </strong>
 
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+  <br />
+  <br />
+  
   <strong> Styles 💄 </strong>
 
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
   <img alt="Chakra UI" src="https://img.shields.io/badge/chakra%20ui-5AC9C8.svg?&style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+  <img alt="SASS" src="https://img.shields.io/badge/sass%20-%23000000.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+  <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0.svg?&style=for-the-badge&logo=vuetify&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-7953B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </p>
 
