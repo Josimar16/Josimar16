@@ -31,7 +31,7 @@
    - 🚀 <b><a href="https://app.rocketseat.com.br/certificates/a020b144-c187-427a-9eb9-9d5e0379f003" target="_blank">Certificação</a></b> do Ignite(ReactJs), @Rocketseat 🚀.
 </p>
 <p align="justify">
-   - 🚀 <b><a href="https://app.rocketseat.com.br/certificates/9c1a9b2d-3ee6-46b6-8817-be3b6495d788" target="_blank">Certificação</a></b> do Ignite(NodeJs), <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>.
+   - 🚀 <b><a href="https://app.rocketseat.com.br/certificates/9c1a9b2d-3ee6-46b6-8817-be3b6495d788" target="_blank">Certificação</a></b> do Ignite(NodeJs), @Rocketseat 🚀.
 </p>
 <p align="justify">
    - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>.
