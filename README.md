@@ -25,7 +25,7 @@
    - 🖥 Cursando Sistemas para a Internet pela universidade UNP.
 </p>
 <p align="justify">
-   - 🚀 <a href="https://app.rocketseat.com.br/certificates/a5f528d5-4010-420a-a2d6-fb657127de12" target="_blank">Certificação</a></b> na GoStack14, @Rocketseat 🚀.
+   - 🚀 <b><a href="https://app.rocketseat.com.br/certificates/a5f528d5-4010-420a-a2d6-fb657127de12" target="_blank">Certificação</a></b> na GoStack14, @Rocketseat 🚀.
 </p>
 <p align="justify">
    - 🚀 <b><a href="https://app.rocketseat.com.br/certificates/a020b144-c187-427a-9eb9-9d5e0379f003" target="_blank">Certificação</a></b> do Ignite(ReactJs), @Rocketseat 🚀.
@@ -34,7 +34,7 @@
    - 🚀 <b><a href="https://app.rocketseat.com.br/certificates/9c1a9b2d-3ee6-46b6-8817-be3b6495d788" target="_blank">Certificação</a></b> do Ignite(NodeJs), @Rocketseat 🚀.
 </p>
 <p align="justify">
-   - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>.
+   - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, <b><a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a></b>.
 </p>
 <p align="justify">
    - 🖥 Head do sistema de chamados(CRM) da @Brisanet Telecomunicações, o WorkFlow.
