@@ -10,7 +10,10 @@
   Meu nome é Josimar Junior, sou desenvolvedor Full Stack, estudando constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJs e nas tecnologias frontend usando ReactJS com o framework NextJs, no mobile usando React Native, e também conhecimentos em funções serverless da AWS e Firebase, um apaixonado pela linguagem JavaScript. 
 </p>
 <p align="justify">
-   - 🔭 Atualmente trabalhando como desenvolvedor FullStack e líder de projetos na empresa @Brisanet Telecomunicações S.A.
+   - 🔭 Atualmente trabalhando como desenvolvedor FullStack na empresa @Certsys - Tecnologia da informação LTDA.
+</p>
+<p align="justify">
+   - 🔭 Trabalhei 3 anos como desenvolvedor FullStack e líder de projetos na empresa @Brisanet Telecomunicações S.A.
 </p>
 <p align="justify">
    - 🌱 Sempre estudando sobre ReactJS/NextJs, React Native e NodeJS/NestJS.
@@ -35,12 +38,6 @@
 </p>
 <p align="justify">
    - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, <b><a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a></b>.
-</p>
-<p align="justify">
-   - 🖥 Head do sistema de chamados(CRM) da @Brisanet Telecomunicações, o WorkFlow.
-</p>
-<p align="justify">
-   - 🖥 Head do sistema de gestão de projetos da @Brisanet Telecomunicações, o Icarus.
 </p>
 
 ---- 
