@@ -7,10 +7,10 @@
 ### Olá Dev 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="justify">
-  Meu nome é Josimar Junior, sou desenvolvedor Full Stack, estudando constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJs e nas tecnologias frontend usando ReactJS com o framework NextJs, no mobile usando React Native, e também conhecimentos em funções serverless da AWS e Firebase, um apaixonado pela linguagem JavaScript. 
+  Meu nome é Josimar Junior, sou tech leader e desenvolvedor Full Stack, estudando constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJs e nas tecnologias frontend usando ReactJS com o framework NextJs, no mobile usando React Native, e também conhecimentos em funções serverless da AWS e Firebase, um apaixonado pela linguagem JavaScript. 
 </p>
 <p align="justify">
-   - 🔭 Atualmente trabalhando como desenvolvedor FullStack na empresa @Certsys - Tecnologia da informação LTDA.
+   - 🔭 Atualmente trabalhando como tech leader | desenvolvedor FullStack na empresa @Certsys - Tecnologia da informação LTDA.
 </p>
 <p align="justify">
    - 🔭 Trabalhei 3 anos como desenvolvedor FullStack e líder de projetos na empresa @Brisanet Telecomunicações S.A.
