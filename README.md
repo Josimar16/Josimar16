@@ -39,9 +39,6 @@
 <p align="justify">
    - 🚀 <b><a href="https://app.rocketseat.com.br/certificates/9c1a9b2d-3ee6-46b6-8817-be3b6495d788" target="_blank">Certificação</a></b> do Ignite(NodeJs), @Rocketseat 🚀.
 </p>
-<p align="justify">
-   - 🚀 Aluno das stacks de ReactNative - ReactJS - NodeJs do Ignite, <b><a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a></b>.
-</p>
 
 ---- 
 ### Redes sociais 🔌
