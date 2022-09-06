@@ -25,7 +25,7 @@
    - 💻 Técnico em informática pela E.E.E.P Maria Célia Pinheiro Falcão. 
 </p>
 <p align="justify">
-   - 🖥 Cursando Sistemas para a Internet pela universidade UNP.
+   - 🖥 Graduado em Sistemas para a Internet pela universidade UNP.
 </p>
 <p align="justify">
    - 🚀 <b><a href="https://app.rocketseat.com.br/certificates/a5f528d5-4010-420a-a2d6-fb657127de12" target="_blank">Certificação</a></b> na GoStack14, @Rocketseat 🚀.
