@@ -10,10 +10,13 @@
   Meu nome é Josimar Junior, sou tech leader e desenvolvedor Full Stack, estudando constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJs e nas tecnologias frontend usando ReactJS com o framework NextJs, no mobile usando React Native, e também conhecimentos em funções serverless da AWS e Firebase, um apaixonado pela linguagem JavaScript. 
 </p>
 <p align="justify">
-   - 🔭 Atualmente trabalhando como tech leader | desenvolvedor FullStack na empresa @Certsys - Tecnologia da informação LTDA.
+   - 🔭 Atualmente trabalhando como software developer na empresa @Venturus.
 </p>
 <p align="justify">
-   - 🔭 Trabalhei 3 anos como desenvolvedor FullStack e líder de projetos na empresa @Brisanet Telecomunicações S.A.
+   - 🔭 Trabalhei 1 ano e dois meses como tech leader | desenvolvedor FullStack na empresa @Certsys.
+</p>
+<p align="justify">
+   - 🔭 Trabalhei 3 anos como desenvolvedor FullStack e líder de projetos na empresa @Brisanet.
 </p>
 <p align="justify">
    - 🌱 Sempre estudando sobre ReactJS/NextJs, React Native e NodeJS/NestJS.
