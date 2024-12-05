@@ -7,13 +7,16 @@
 ### Olá Dev 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="justify">
-  Meu nome é Josimar Junior, sou tech leader e desenvolvedor Full Stack, estudando constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJs e nas tecnologias frontend usando ReactJS com o framework NextJs, no mobile usando React Native, e também conhecimentos em funções serverless da AWS e Firebase, um apaixonado pela linguagem JavaScript. 
+  Meu nome é Josimar Junior, sou Sênior Backend, estudando constantemente sobre as tecnologias mais atuais. Trabalho atualmente com NodeJs e Sprint boot Java. 
 </p>
 <p align="justify">
-   - 🔭 Atualmente trabalhando como software developer na empresa @Venturus.
+   - 🔭 Atualmente trabalhando como Sênior Backend na empresa @FCamara.
 </p>
 <p align="justify">
-   - 🔭 Trabalhei 1 ano e dois meses como tech leader | desenvolvedor FullStack na empresa @Certsys.
+   - 🔭 Trabalhei 1 ano e 6 meses como Sênior Backend na empresa @Venturus.
+</p>
+<p align="justify">
+   - 🔭 Trabalhei 1 ano e 2 meses como tech leader | desenvolvedor FullStack na empresa @Certsys.
 </p>
 <p align="justify">
    - 🔭 Trabalhei 3 anos como desenvolvedor FullStack e líder de projetos na empresa @Brisanet.
