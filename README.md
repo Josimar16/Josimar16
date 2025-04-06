@@ -34,6 +34,9 @@
    - 🖥 Graduado em Sistemas para a Internet pela universidade UNP.
 </p>
 <p align="justify">
+   - 🚀 <b><a href="[https://app.rocketseat.com.br/certificates/69c7f4df-c9cd-4091-890b-7684c9171ab0](https://fullcycle.com.br/certificado/35989fed-cb09-4f59-b007-9cfb08b780fc)" target="_blank">Certificação</a></b> GO Expert, @Full Cycle 🚀.
+</p>
+<p align="justify">
    - 🚀 <b><a href="https://app.rocketseat.com.br/certificates/69c7f4df-c9cd-4091-890b-7684c9171ab0" target="_blank">Certificação</a></b> especialista (NodeJs), @Rocketseat 🚀.
 </p>
 <p align="justify">
